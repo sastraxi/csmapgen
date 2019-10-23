@@ -20,6 +20,6 @@
     "webpack-glsl-loader": "^1.0.1"
   },
   "dependencies": {
-    "babylonjs": "^3.3.0"
+    "babylonjs": "^4.0.3"
   }
 }
